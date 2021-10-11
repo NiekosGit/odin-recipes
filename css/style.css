@@ -1,8 +1,53 @@
-li {
-    font-weight: 700;
-    color:indianred;
+* {
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#middletext {
-    color:lemonchiffon;
+li {
+    font-weight: 700;
+    color: MediumSeaGreen;
+}
+
+#odds {
+    color: MediumTurquoise;
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 15px !important;
+    margin-right: 550px;
+    color:yellowgreen;
+    border-width: 5px;
+    border-left-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color:whitesmoke;
+    font-family:fantasy, sans-serif;
+    padding-left: 5px;
+}
+
+body {
+    background-color: papayawhip;
+}
+
+h3 {
+    margin-left: 60px;
+    color: rgb(240, 147, 161);
+}
+
+p {
+    margin-left: 40px;
+    font-weight: 600;
+    color:#786dc4;
+}
+
+img {
+    margin-left: 20px;
+    height: auto;
+    width: 300px;
+    
+}
+
+#headerpage {
+    margin-left: 50px;
 }
